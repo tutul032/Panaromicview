@@ -14,6 +14,7 @@ int main(int, char**)
 	int frames_per_second = 15; 
 	VideoWriter oVideoWriter("D:/MyVideo.avi", VideoWriter::fourcc('M', 'J', 'P', 'G'),
 		frames_per_second, Size(1900, 500), true); // saved video format and size in D drive location
+	
 	for (;;)
 	{
 		Mat frame, dst, src;
