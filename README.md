@@ -1,4 +1,4 @@
 # Overview
 360 to panaroma conversion 
 
-![image](https://i.stack.imgur.com/KaXZ9.jpg)
+![image](https://github.com/tutul032/Panaromicview/blob/master/pan_Img.jpg)
